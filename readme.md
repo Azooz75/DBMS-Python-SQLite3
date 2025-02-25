@@ -23,8 +23,8 @@ This project was submitted as a university assignment for the "Databases and Clo
 
 1. Clone the repository:
     ```sh
-    git clone 
-    cd 
+    git clone https://github.com/Azooz75/DBMS-Python-SQLite3.git
+    cd DBMS-Python-SQLite3
     ```
 
 2. Ensure you have Python 3 installed. You can download it from [python.org](https://www.python.org/).
