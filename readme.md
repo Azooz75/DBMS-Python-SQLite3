@@ -6,7 +6,7 @@ This project is a Python-based database management system for an imaginary airli
 
 The motivation behind this project was to practice the use of SQLite3 and Python to create a simple database management 
 system, where users can interact with and modify a database via the CLI.
-This project was submitted as a university assignment for the "Databases and Cloud" course at the University of Bath.
+This project was subitted as part of the required coursework for the "Databases and Cloud" course at the University of Bath.
 
 ## Features
 
@@ -104,7 +104,7 @@ Future work may include:
 
 MIT License
 
-Copyright (c) 2024 - Abdel Mauz Bakri
+Copyright (c) 2024 - Mauz Bakri
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
