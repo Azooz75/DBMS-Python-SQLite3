@@ -6,7 +6,8 @@ This project is a Python-based database management system for an imaginary airli
 
 The motivation behind this project was to practice the use of SQLite3 and Python to create a simple database management 
 system, where users can interact with and modify a database via the CLI.
-This project was submitted as part of the required coursework for the "Databases and Cloud" module at the University of Bath.
+This project was submitted as part of the required coursework for the "Databases and Cloud" module at the University of Bath. Noting
+that the files uploaded hereto are exclusively works of my own, and are not redistributions of coursework material.
 
 ## Features
 
